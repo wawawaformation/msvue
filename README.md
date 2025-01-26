@@ -20,5 +20,6 @@ Une API simple permettant de gérer des auteurs et des citations, conçue pour u
 ### Étapes
 
 
-Déposer le projet dans votre htdoc
+Cloner le projet dans votre htdoc \
+Ne pas oublier de mettre à jour le dossier Vendor \
 Créer un virtualhost (avec nameserver et directory) qui pointe vers le dossier public
